@@ -48,4 +48,5 @@ extensions/registry.xml
 extensions/extension-schematron.xsl
 extensions/schematron/webgl_message.xsl
 node_modules/*
-node-test/*
+node-test
+package-lock.json
